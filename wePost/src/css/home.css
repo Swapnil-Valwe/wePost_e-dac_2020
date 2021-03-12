@@ -1,0 +1,16 @@
+#city {
+    border-radius: 50% 50% 0 50%;
+}
+
+.col-2 {
+    margin-top: "5px";
+    text-align: center;
+    font-size: larger;
+    font-weight: bolder;
+    object-fit: cover;
+    
+}
+
+.col-2:hover {
+    opacity: 0.6;
+}

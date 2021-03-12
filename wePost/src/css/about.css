@@ -1,0 +1,47 @@
+.our-team {
+    padding: 50px 0px;
+    background-color: #f9f9f9;
+}
+.our-team h2{
+  margin-bottom: 40px;
+}
+.our-team a:hover{
+  color: #333;
+}
+.client-img {
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    margin: 0 auto;
+    border-radius: 50%;
+    border: 1px solid #ca7034;
+    padding: 5px;
+}
+.box-bg {
+    background-color: rgb(238, 248, 217);
+    padding: 20px 20px;
+    border: 2px solid #24f0e6;
+    border-top-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    position: relative;
+    margin: 15px 0px;
+    overflow: hidden;
+}
+.details {
+    padding: 10px 0px;
+}
+.details h4 {
+    color: #1e3b49;
+}
+.details h6 {
+    color: #426a81;
+}
+.details a {
+    margin: 0 auto;
+    font-size: 16px;
+    color: #18a30b;
+    text-decoration: none;
+    font-weight: 500;
+    display: table;
+    margin-top: 20px;
+}
